@@ -1,0 +1,16 @@
+{
+  "name": "event-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd server && nodemon start\" \"cd client && npm run dev\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "concurrently": "^6.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

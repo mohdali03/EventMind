@@ -1,0 +1,91 @@
+Sure, here are 10 more event inputs following the template you provided:
+
+1. **Title:** Tech Summit 2024
+   **Venue:** Bangalore
+   **Organizer:** TechHub
+   **Date and Time:** 06-06-2024 9:00 AM
+   **Price:** 15000
+   **Profile Image URL:** https://example.com/profile1.jpg
+   **Cover Image URL:** https://example.com/cover1.jpg
+   **Description:** Join us for the biggest technology summit of the year, featuring keynote speeches, panel discussions, and networking opportunities with industry experts.
+
+2. **Title:** Marketing Conference
+   **Venue:** New Delhi
+   **Organizer:** MarketPro
+   **Date and Time:** 07-07-2024 11:00 AM
+   **Price:** 12000
+   **Profile Image URL:** https://example.com/profile2.jpg
+   **Cover Image URL:** https://example.com/cover2.jpg
+   **Description:** Explore the latest trends and strategies in marketing at our interactive conference, designed to empower marketers with actionable insights and tools.
+
+3. **Title:** Finance Forum
+   **Venue:** Mumbai
+   **Organizer:** FinTech Solutions
+   **Date and Time:** 08-08-2024 10:30 AM
+   **Price:** 13000
+   **Profile Image URL:** https://example.com/profile3.jpg
+   **Cover Image URL:** https://example.com/cover3.jpg
+   **Description:** Dive deep into the world of finance at our forum, where industry leaders will discuss emerging technologies, regulatory updates, and investment opportunities.
+
+4. **Title:** Leadership Summit
+   **Venue:** Chennai
+   **Organizer:** LeadConnect
+   **Date and Time:** 09-09-2024 10:00 AM
+   **Price:** 11000
+   **Profile Image URL:** https://example.com/profile4.jpg
+   **Cover Image URL:** https://example.com/cover4.jpg
+   **Description:** Join us for a day of insightful discussions and workshops on leadership development, designed to inspire and empower the next generation of leaders.
+
+5. **Title:** Startup Expo
+   **Venue:** Hyderabad
+   **Organizer:** StartupX
+   **Date and Time:** 10-10-2024 9:30 AM
+   **Price:** 10000
+   **Profile Image URL:** https://example.com/profile5.jpg
+   **Cover Image URL:** https://example.com/cover5.jpg
+   **Description:** Discover innovative startups and connect with investors, mentors, and fellow entrepreneurs at our startup expo, featuring pitch competitions and networking sessions.
+
+6. **Title:** Fashion Show
+   **Venue:** Mumbai
+   **Organizer:** FashionFest
+   **Date and Time:** 11-11-2024 11:00 AM
+   **Price:** 8000
+   **Profile Image URL:** https://example.com/profile6.jpg
+   **Cover Image URL:** https://example.com/cover6.jpg
+   **Description:** Experience the latest trends in fashion and haute couture at our glamorous fashion show, showcasing collections from renowned designers and emerging talents.
+
+7. **Title:** Wellness Retreat
+   **Venue:** Goa
+   **Organizer:** Wellness World
+   **Date and Time:** 12-12-2024 9:00 AM
+   **Price:** 20000
+   **Profile Image URL:** https://example.com/profile7.jpg
+   **Cover Image URL:** https://example.com/cover7.jpg
+   **Description:** Rejuvenate your mind, body, and soul at our luxurious wellness retreat, featuring yoga sessions, spa treatments, and mindfulness workshops in the serene surroundings of Goa.
+
+8. **Title:** Food Festival
+   **Venue:** Jaipur
+   **Organizer:** FoodieFest
+   **Date and Time:** 01-01-2025 10:30 AM
+   **Price:** 9000
+   **Profile Image URL:** https://example.com/profile8.jpg
+   **Cover Image URL:** https://example.com/cover8.jpg
+   **Description:** Indulge in a culinary journey of flavors and aromas at our vibrant food festival, where you can sample delicious cuisines from around the world and participate in cooking demos and food competitions.
+
+9. **Title:** Music Concert
+   **Venue:** Kolkata
+   **Organizer:** MelodyMakers
+   **Date and Time:** 02-02-2025 8:00 PM
+   **Price:** 18000
+   **Profile Image URL:** https://example.com/profile9.jpg
+   **Cover Image URL:** https://example.com/cover9.jpg
+   **Description:** Immerse yourself in an unforgettable musical experience at our electrifying concert, featuring live performances by top artists and bands across genres.
+
+10. **Title:** Sports Expo
+    **Venue:** Pune
+    **Organizer:** SportsWorld
+    **Date and Time:** 03-03-2025 10:00 AM
+    **Price:** 8500
+    **Profile Image URL:** https://example.com/profile10.jpg
+    **Cover Image URL:** https://example.com/cover10.jpg
+    **Description:** Celebrate the spirit of sportsmanship at our dynamic sports expo, showcasing the latest equipment, technologies, and trends in the world of sports.
