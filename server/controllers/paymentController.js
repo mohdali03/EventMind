@@ -9,12 +9,7 @@ dotenv.config();
 const cookieParser = require("cookie-parser");
 app.use(cookieParser());
 
-//production
-// const stripe = require("stripe")(
-//   "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"
-// );
 
-// test
 const stripe = require("stripe")(process.env.STRIPE_KEY);
 
 const uuid = require("uuid").v4;
