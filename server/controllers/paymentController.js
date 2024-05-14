@@ -10,6 +10,7 @@ const cookieParser = require("cookie-parser");
 app.use(cookieParser());
 
 
+
 const stripe = require("stripe")(process.env.STRIPE_KEY);
 
 const uuid = require("uuid").v4;
